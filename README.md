@@ -9,4 +9,4 @@ Glad GL 4.6 core profile
 Docs and source code: [LearnOpenGL](https://learnopengl.com/)  
 
 In main.cpp file exists an example for hello triangle
-![Triangle](HelloTriangle)
+![Triangle](HelloTriangle.png)
